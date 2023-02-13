@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{% block language %}{% endblock %}">
+<head>
+<meta charset="utf-8">
+<title>{% block docTitle %}{% endblock %}</title>
+<link rel="stylesheet" type="text/css" href="/css/main.css">
+<link rel="icon" type="image/svg+xml" href="/image/escape.svg">
+<link rel="alternate" type="application/atom+xml" href="/atom.xml">
+</head>
+<body>
+<nav>
+<a href="/"><img alt="escape sign" src="/image/escape.svg"></a>
+<ul>
+<li><a href="/now-playing/">Now Playing</a></li>
+<li><a href="/paused/">Paused</a></li>
+<li><a href="/about/">About</a></li>
+</ul>
+</nav>
+{%- block content -%} {%- endblock -%}
+</body>
+</html>

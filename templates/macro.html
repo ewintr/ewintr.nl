@@ -1,0 +1,13 @@
+{%- macro date(language, day, month, year) -%}
+{%- if language == "nl" -%}
+{%- set months = ["", "januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"] -%}
+<time datetime="{{ year }}-{{ month }}-{{ day }}">{{ day }} {{ months[month] }} {{ year }}</time>
+{%- else -%}
+{%- set months = ["", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"] -%}
+<time datetime="{{ year }}-{{ month }}-{{ day }}">{{ months[month] }}  {{ day }}, {{ year }}</time>
+{%- endif -%}
+{%- endmacro date -%}
+
+{%- macro flag(language) -%}
+{%- if language == "nl" %} &#127475;&#127473; {%- endif -%}
+{%- endmacro flag -%}

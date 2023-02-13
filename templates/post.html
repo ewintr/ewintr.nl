@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% import "macro.html" as macro %}
+
+{% block content %}
+{% set section = get_section(path=page.ancestors[1]) %}
+<main class="post">
+<h1><img src="/image/{{ section.extra.icon }}"> <a href="/{{ section.extra.short }}/">{{ section.extra.short }}</a> &gt; {{ page.title }}</h1>
+{{ macro::date(language=section.lang, day=page.day, month=page.month, year=page.year) }}
+{{ macro::flag(language=section.extra.language)}}{{ page.content | safe }}
+</main>
+{% endblock content %}
+
+{% block docTitle -%}
+{{ page.title }} - ewintr.nl
+{%- endblock docTitle %}
+
+{% block language -%}
+{%- set section = get_section(path=page.ancestors[1]) -%}
+{{ section.extra.language }}
+{%- endblock language %}

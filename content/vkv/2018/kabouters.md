@@ -1,0 +1,23 @@
+---
+title: "Kabouters"
+date: 2018-02-04
+draft: false
+---
+
+Kijk, eigenlijk is het helemaal niets raars. Het is gewoon een kwestie van zuiver, logisch redeneren. Dingen zijn anders dan ze op het eerste gezicht lijken, dat is heel vaak zo. Dus als ik zeg: kabouters zijn misschien ‘s nachts wel helemaal niet zo klein als overdag, dan moet je dat niet meteen lacherig over doen.<!-- more --> Denk eerst zelf na en oordeel dan pas, vind ik.
+
+Want wat is nou het meest bijzondere aan een kabouter? Nee, dat is geen strikvraag. Het is heel eenvoudig. Kabouters komen niet zovaak voor in sprookjes omdat ze van die fanatieke pijprokers zijn, of omdat ze zo hartstochtelijk van Tsjaikovski kunnen houden. Tuurlijk, de rode puntmuts en de witte baard geven het altijd wel een beetje weg, maar er zijn ook gewone mensen die weleens een rode puntmuts dragen en ook witte baarden komen best veel voor. En ja, er zijn ook lilliputters, maar dat is toch klein bier vergeleken bij de lengte van die kleine kabouterkrengen. Want we hebben het hier natuurlijk over de lengte! Kabouters zijn klein! Allemaal! Geen enkele uitzondering.
+
+En dat vinden we bijzonder. Terecht! Dat is ook heel bijzonder. Je ziet het vrijwel nooit, die kleine minimensjes. Het komt gewoon erg weinig voor. Dat is zo ongeveer ook de definitie van het woord bijzonder. Dat dat het niet vaak voorkomt. Dat klopt dus allemaal. Maar laten we nu eens doordenken.
+
+Kabouters zijn kort, zijn bijzonder. Omgekeerd: als de kabouter minder kort zou zijn, dan zou hij zijn bijzonderheid verliezen. Of, zoals we tegenwoordig zeggen, dan zou hij normaal worden. Klein zijn is zogezegd datgene waarmee de kabouter zijn geld verdiend. Het zal de kabouter er dus veel aan gelegen zijn om klein te blijven, puur uit lijfsbehoud.
+
+Maar laten we nu eens teruggaan naar die eerste gedachte. Laten we eens een kabouter voorstellen die ‘s nachts net iets langer is dan overdag. Niet veel langer, hoor, een heel klein beetje maar. Hij past nog gewoon in zijn kleine kabouterslaapkamertje, niks aan de hand. Maar misschien hij heeft zijn kleine kabouterbedje wel wat op de groei moeten kopen.
+
+Dan zouden we kunnen zeggen dat deze groeikabouter wat minder bijzonder is. In ieder geval ‘s nachts. Hij is immers, over de hele linie bekeken, minder klein dan een echte kabouter. En als hij minder bijzonder is, komt hij vaker voor, want dat is nu eenmaal zoals het werkt. Dus misschien bestaan ze wel, die kabouters die altijd, zowel dag en nacht, kabouterkort zijn, maar statistisch gezien moeten ze veruit in de minderheid zijn.
+
+En dat is okay, he. Begrijp me niet verkeerd. Als er kabouters zijn die ‘s nachts willen groeien, bijvoorbeeld omdat ze een klein minderwaardigheidscomplexje hebben van het altijd maar de kortste en de laagste zijn, dan vind ik dat prima. Ik vind het zelfs heel begrijpelijk. Als ik kabouter was zou ik af en toe ook wel wat willen groeien. De maatschappij is toch meer berekend op ons soort mensen, daar moet je ook eerlijk over zijn. Normale mensen hebben het makkelijker. Nou, en als ze het dan gewoon ‘s nachts thuis doen, in hun eien omgeving, dan heeft ook nog eens niemand er last van. Wat kun je er dan nog op tegen hebben? Niks! En dat heb ik dan ook niet.
+
+Maar waar ik dus niet tegen kan is dat schijnheilige. Ik vind: kom er dan ook gewoon voor uit. Je kunt het ook gewoon zeggen. We zijn allemaal volwassen mensen hier. Maar dat doen ze niet. Omdat ze dan minder bijzonder zijn. Omdat ze dan minder geld verdienen misschien. En eigenlijk word je dus voorgelogen zo. Eigenlijk zijn het dus kleine oplichtertjes. En daarom vind ik het maar kleine kankerlijertjes. Ja, kabouters zijn schijnheilige kankerlijertjes, dat mag ook weleens hardop gezegd worden. Ze hoeven me niet eens gelijk te geven, dat hoeft niet in dit land. Je mag rustig je eigen mening hebben, ook van mij, maar ze luisteren niet eens. Ze staan daar maar een beetje de hele dag doodstil te staan. Ze negeren je gewoon, maakt niet uit wat je tegen ze zegt. Maar achter hun rug steken ze wel steeds hun kleine middelvingertje naar je op. Dát is pas asociaal.
+
+Nou ja, dan geef ik ze weleens een klein zetje, ja. Gewoon om toch proberen contact te maken he. De discussie aangaan heet dat. En soms gaat dat weleens te hard ja, en dat spijt me dan ook. Echt. Dat zeg ik eerlijk. Maar het zijn het zijn ook zúlke tere ventjes he. Let op, ik zei niet ‘aanstellers’. Dat zei ik niet. Maar het is wel een woord dat in je opkomt. Steeds maar dat meteen in gruzelementen vallen, wat een kleinzerige ventjes zijn het ook. Tsja. Daar mag natuurlijk iedereen zijn eigen mening over hebben hoor, maar ik weet het wel. 

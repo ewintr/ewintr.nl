@@ -1,0 +1,28 @@
+{%- extends "base.html" -%}
+{%- import "macro.html" as macro -%}
+
+{%- block content -%}
+<main class="list">
+<h1>{{ section.title }}{{ macro::flag(language=section.extra.language)}}</h1>
+{{ section.content | safe }}
+<p class="border"><img src="/image/{{ section.extra.icon }}"></p>
+<ul class="posts">
+{%- for p in section.pages -%}
+<li>
+<a href="{{ p.path }}">
+<h2><img src="/image/{{ section.extra.icon }}"> {{ p.title }}</h2>
+<p>{{ p.summary | striptags | safe }}</p></a>
+</li>
+{%- endfor -%}
+</ul>
+</main>
+{%- endblock content -%}
+
+{%- block docTitle -%}
+{{ section.title }} - ewintr.nl
+{%- endblock docTitle -%}
+
+{%- block language -%}
+{{ section.extra.language }}
+{%- endblock language -%}
+

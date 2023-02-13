@@ -1,0 +1,37 @@
+{%- extends "base.html" -%}
+{%- import "macro.html" as macro -%}
+
+{%- block content -%}
+{%- set section = get_section(path=page.ancestors[1]) -%}
+<main class="post">
+<h1><img src="/image/{{ section.extra.icon }}"> <a href="/{{ section.extra.short }}/">{{ section.extra.short }}</a> &gt; {{ page.title }}</h1>
+{{ macro::flag(language=section.extra.language)}}
+<table>
+<tr><td>Director:</td><td>{{ page.extra.movie.directors }}</td></tr>
+<tr><td>Year:</td><td>{{ page.extra.movie.year }}</td></tr>
+<tr><td>Rating: </td><td>
+{%- for a in [1,2,3,4,5,]-%}
+{%- if a <= page.extra.movie.rating  -%}
+&#9733;&nbsp;
+{%- else -%}
+&#9734;&nbsp;
+{%- endif -%}
+{%- endfor -%}
+</td></tr>
+<tr><td>Seen:</td><td>{{ macro::date(language=section.lang, day=page.day, month=page.month, year=page.year) }}</td></tr>
+{%- if page.extra.movie.en_title != "" -%}
+<tr><td>English Title:</td><td>{{ page.extra.movie.en_title }}</td></tr>
+{%- endif -%}
+</table>
+{{ page.content | safe }}
+</main>
+{%- endblock content -%}
+
+{%- block docTitle -%}
+{{ page.title }} - ewintr.nl
+{%- endblock docTitle -%}
+
+{%- block language -%}
+{%- set section = get_section(path=page.ancestors[1]) -%}
+{{ section.extra.language }}
+{%- endblock language -%}
