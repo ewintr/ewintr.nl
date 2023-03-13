@@ -7,6 +7,12 @@ template: "projects.html"
 <p class="border"></p>
 <ul class="projects">
 <li>
+<a href="/vkv/">
+<h2><img src="/image/collision.svg"> Vrij korte verhalen &#127475;&#127473;</h2>
+<p>A collection of short stories I wrote over the years. All in Dutch.</p>
+</a>
+</li>
+<li>
 <a href="/movies/">
 <h2><img src="/image/movie-projector.svg"> Movie Micro Blog</h2>
 <p>Quick notes on movies I viewed.</p>
