@@ -18,11 +18,11 @@ Een stem. Een mannenstem, zwaar, vriendelĳk, vraagt of ik klaar ben. Ik zeg: 'I
 
 'Daar moeten we het een dezer dagen eens over hebben,' zeg ik. 'Die vergeetachtigheid van je.'
 
-'Ik doe doe altĳd mĳn best voor je, dat weet je.'
+'Ik doe altĳd mĳn best voor je, dat weet je.'
 
 'Laten we beginnen nu.'
 
-Het pulseren neemt af. Een ruim weidelandschap openbaart zich, maar het verandert snel in een meer stedijke omgeving en na enige moeilijk navolgbare veranderingen zit ik achter een bureau in fel kleurig kunstlicht. Er is publiek dat applaudisseert. Een man in pak, het zal de quizmaster zijn, praat de boel snel aan elkaar voordat hij tegenover mij plaatsneemt. Hij heet mij welkom. Ik knik dat we kunnen beginnen.
+Het pulseren neemt af. Een ruim weidelandschap openbaart zich, maar het verandert snel in een meer stedelijke omgeving en na enige moeilijk navolgbare veranderingen zit ik achter een bureau in fel kleurig kunstlicht. Er is publiek dat applaudisseert. Een man in pak, het zal de quizmaster zijn, praat de boel snel aan elkaar voordat hij tegenover mij plaatsneemt. Hij heet mij welkom. Ik knik dat we kunnen beginnen.
 
 'De eerste worp is een zeven. De tweede een veertien. Er zĳn niet meer worpen,' legt hij uit.
 
