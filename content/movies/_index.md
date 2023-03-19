@@ -1,6 +1,7 @@
 +++
 title = "Movie Micro Blog"
 page_template = "post-movie.html"
+template = "section-movie.html"
 sort_by = "date"
 extra.icon = "movie-projector.svg"
 extra.language = "en"

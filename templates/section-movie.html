@@ -10,7 +10,7 @@
 {%- for p in section.pages -%}
 <li>
 <a href="{{ p.path }}">
-<h2><img src="/image/{{ section.extra.icon }}">  {{ p.title }} <br>{{ macro::date(language="en", day=p.day, month=p.month, year=p.year)}}</h2>
+<h2><img src="/image/{{ section.extra.icon }}">  {{ p.title }} {% if p.extra.movie.en_title != "" %}<em>({{ p.extra.movie.en_title }})</em>{% endif %} <br>{{ macro::date(language="en", day=p.day, month=p.month, year=p.year)}}</h2>
 <p>{{ p.summary | striptags | safe }}</p></a>
 </li>
 {%- endfor -%}

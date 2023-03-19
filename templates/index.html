@@ -18,7 +18,11 @@
 {%- set s = get_section(path=p.ancestors[1]) -%}
 <li>
 <a href="{{ p.path }}">
-<h2><img src="/image/{{ s.extra.icon }}"> {{ s.extra.short}} > {{ p.title }}</h2>
+{%- if s.extra.short == "movies" -%}
+<h2><img src="/image/{{ s.extra.icon }}"> {{ s.extra.short}} > {{ p.title }} {% if p.extra.movie.en_title != "" %}<em>({{ p.extra.movie.en_title}})</em>{% endif %} <br>{{ macro::date(language="en", day=p.day, month=p.month, year=p.year)}}</h2>
+{%- else -%}
+<h2><img src="/image/{{ s.extra.icon }}"> {{ s.extra.short}} > {{ p.title }} <br>{{ macro::date(language="en", day=p.day, month=p.month, year=p.year)}}</h2>
+{%- endif -%}
 <p>{{ p.summary | striptags | safe }}</p></a>
 </li>
 {%- endfor -%}
