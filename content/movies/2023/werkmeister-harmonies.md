@@ -8,4 +8,4 @@ extra.movie.en_title = "Werkmeister Harmonies"
 extra.movie.rating = 4
 +++
 
-The old, naked dude standing in the bathtub says it's better to put the piano back.<!-- more -->
+The old, naked dude standing in the bathtub says it's better to put the piano back to how it was.<!-- more -->
