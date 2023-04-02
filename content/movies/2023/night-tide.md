@@ -8,4 +8,4 @@ extra.movie.en_title = ""
 extra.movie.rating = 2
 +++
 
-Siren mermaid has an excellent taste in Jazz.<!-- more -->
+Siren mermaid has an excellent taste in jazz.<!-- more -->
