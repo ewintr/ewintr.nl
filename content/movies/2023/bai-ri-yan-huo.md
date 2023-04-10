@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2014
 extra.movie.directors = "Yi'nan Diao"
 extra.movie.en_title = "Black Coal, Thin Ice"
-extra.movie.rating = 4
+extra.movie.rating = 3
 +++
 
 She said not to follow her.<!-- more -->
