@@ -1,0 +1,14 @@
+{
+  "configs": [
+    {
+      "path": "/.wellknown/matrix",
+      "fileExtension": "*",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json"
+        }
+      ]
+    }
+  ]
+}
