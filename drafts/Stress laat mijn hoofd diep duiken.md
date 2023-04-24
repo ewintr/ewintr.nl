@@ -1,3 +1,0 @@
-#zettel 
-
-Bij stress grijpt mijn hoofd zich als een pitbull vast aan het eerste beeld van het probleem dat ik heb. Dwt was al zo op de middelbare school met schoolonderzoek wiskunde (x en y verwisselen, al voelde ik dat het niet klopte en las ik de vraag drie keer verkeerd over. Dat is nog steeds. Ik weet al anderhalve week dat de overstap in Brussel niet zeven minuten is. Dienstregeling gewijzd, stond al in het eerste mailtje, toch bleef ik maar het plattegrond va Brussel Midi bekijken. Steeds weer.

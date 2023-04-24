@@ -1,3 +1,0 @@
-#zettel 
-
-Maximaal honderd woorden per dag. Wat betekent dat? Ooit las ik nieuwsgroepen en in een van hen kondigde iemand elk etmaal een nieuw "woord van de dag" aan. Na een tijdje vroeg iemand waarom. Hij antwoordde: "Dit is het begin. Snel zullen we doorgroeien naar het woord van de week, van de maand. Als we dan volhouden en meer woorden toevoegen komem we uiteindelijk uit bij de zin van het leven."

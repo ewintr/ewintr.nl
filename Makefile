@@ -4,4 +4,4 @@ stage:
 
 deploy:
 	zola build
-	flyctl deploy
+	scp -r public/* web:/var/www/ewintr.nl

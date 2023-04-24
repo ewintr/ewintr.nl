@@ -19,6 +19,12 @@ template: "projects.html"
 </a>
 </li>
 <li>
+<a href="/vkv/">
+<h2><img src="/image/collision.svg"> Vrij korte verhalen &#127475;&#127473;</h2>
+<p>A collection of short stories I wrote over the years. All in Dutch.</p>
+</a>
+</li>
+<li>
 <a href="/go-kit/">
 <h2><img src="/image/place-of-interest.svg"> Go-kit</h2>
 <p>A small, personal collection of useful go packages.</p>

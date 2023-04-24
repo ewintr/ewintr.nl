@@ -1,5 +1,0 @@
-#muziek #schrijven 
-
-I believe it's my turn for the coming sprint to be the support engineer again. So I moved to the next album after 2ManyDJ's on the shelf to see what music we got there. (Actually, I moved two albums. I skipped the 4 Non Blonds. No idea how that got there. Forget I ever mentioned it.) And its... 50 Foot Wave, with Golden Ocean. So the sprint will be called that.
-This music also brings back a lot of memories since one of the songs: Clara Bow represents the height of my guitar playing skills. Yes, long ago, I was able play a good rendition of this track. I even started with the singning part, but especially the start and stops in the chorus were very difficult. Lucky for me, and also for you, no recordings have survived, so you can just take my word for it.
-For the interested in pop history, the lead singer is Kristin Hersh, other wise known for much more toned down songs and the band is part of the 4AD record label, that also spawned the more famous The Breeders and The Pixies who were the shit for alternative people in the 90's. (edited) 
