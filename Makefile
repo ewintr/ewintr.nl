@@ -1,7 +1,7 @@
 
 stage:
-	zola serve
+	/home/erik/bin/zola serve
 
 deploy:
-	zola build
-	scp -r public/* web:/var/www/ewintr.nl
+	/home/erik/bin/zola build
+	scp -r -P 23 public/* vm.ewintr.nl:/var/www/ewintr.nl
