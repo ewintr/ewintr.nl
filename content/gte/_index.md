@@ -5,6 +5,7 @@ sort_by = "date"
 extra.icon = "envelope.svg"
 extra.language = "en"
 extra.short = "gte"
+extra.goimport = "https://code.ewintr.nl/ewintr/gte.git"
 +++
 
 The modern world always offers lots of solutions for any given problem. Including something a simple as maintaining a list of tasks. Often though, all these services and solutions look very much alike, with the same features and the same drawbacks. If that one-size-fits-all approach doesn't suit you, you have to take more drastic measures and build it yourself.

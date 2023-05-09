@@ -5,6 +5,7 @@ sort_by = "date"
 extra.icon = "place-of-interest.svg"
 extra.language = "en"
 extra.short = "go-kit"
+extra.goimport = "https://code.ewintr.nl/ewintr/go-kit.git"
 +++
 
 This is a collection of some small go packages that were useful enough for me to include them in more than one project. It contains:

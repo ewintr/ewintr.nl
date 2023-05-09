@@ -5,6 +5,7 @@ sort_by = "date"
 extra.icon = "document.svg"
 extra.language = "en"
 extra.short = "adoc"
+extra.goimport = "https://code.ewintr.nl/ewintr/adoc.git"
 +++
 
 It started with some lines of throwaway code, held together by staples and duct tape in my little [Shitty SSG](@/shitty-ssg/_index.md) project and it kept evolving. A long time ago I decided that I liked [AsciiDoc](https://powerman.name/doc/asciidoc) better than [Markdown](https://commonmark.org/help/) when it comes to simple markup languages.

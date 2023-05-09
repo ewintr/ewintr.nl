@@ -5,6 +5,7 @@ sort_by = "date"
 extra.icon = "undo.svg"
 extra.language = "en"
 extra.short = "shitty-ssg"
+extra.goimport = "https://code.ewintr.nl/ewintr/shitty-ssg.git"
 +++
 
 Even though I had been a developer for a long time, I never made much effort to develop tools for myself. Why would I? There is already so much good software out there that you can download for free. Surely it is better to just use that and not waste your time?
