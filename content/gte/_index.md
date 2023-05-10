@@ -16,4 +16,4 @@ So here it is, Getting Things Email, my very own task management system that:
 * Can be used by any device, with or without a dedicated app.
 * Synchronizes between devices, but can handle longer periods of not being connected to the internet.
 
-A more detailed motivation to start this project is here. Code can be found [here](https://codeberg.org/ewintr/gte).
+A more detailed motivation to start this project is here. Code can be found [here](https://code.ewintr.nl/ewintr/gte).

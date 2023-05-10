@@ -7,7 +7,7 @@ template: "page.html"
 
 ## Code
 
-* [codeberg.org/ewintr](https://codeberg.org/ewintr) 
+* [code.ewintr.nl/ewintr](https://code.ewintr.nl/ewintr) 
 * [github.com/ewintr](https://github.com/ewintr) (mirror)
 
 ## Contact

@@ -16,7 +16,7 @@ _Edit: I’ve changed some things since then, the domains above might not work a
 
 In the future I might add an export for a Gopher or a Gemini site and if the collection of notes grows I’ll probably improve the search somewhat. Now it only finds notes on tags or whole words. It displays them just in plain text. I will also probably dive more into shell escape codes and such to see if the apperance can be improved.
 
-The code itself can be found [here](https://codeberg.org/ewintr/shitty-ssg).
+The code itself can be found [here](https://code.ewintr.nl/ewintr/shitty-ssg).
 
 ## Directories
 

@@ -16,4 +16,4 @@ This project started with a [rant](https://ewintr.nl/shitty-ssg/why-i-built-my-o
 
 I used it and used it for about a year and then let it reincarnate in the scripts that generate the site you are reading now. Because that is very easy to do with your own software as well: change it however you want, whenever you like.
 
-Code can be found [here](https://codeberg.org/ewintr/shitty-ssg).
+Code can be found [here](https://code.ewintr.nl/ewintr/shitty-ssg).

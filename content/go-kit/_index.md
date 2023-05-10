@@ -15,4 +15,4 @@ This is a collection of some small go packages that were useful enough for me to
 * `smtp` - Simple wrapper around the smtp package in the standard library.
 * `test` - Minimalist set of functions for unit testing.
 
-Code can be found [here](https://codeberg.org/ewintr/go-kit).
+Code can be found [here](https://code.ewintr.nl/ewintr/go-kit).
