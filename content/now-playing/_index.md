@@ -9,7 +9,7 @@ template: "projects.html"
 <li>
 <a href="/movies/">
 <h2><img src="/image/movie-projector.svg"> Movie Micro Blog</h2>
-<p>Quick notes on movies I viewed.</p>
+<p>Quick notes on movies I watched.</p>
 </a>
 </li>
 </ul>
