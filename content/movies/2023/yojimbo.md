@@ -8,4 +8,4 @@ extra.movie.en_title = "Yojimbo"
 extra.movie.rating = 3
 +++
 
-I heard about double agents before, but a double samurai is new.<!-- more -->
+I had heard about double agents before, but a double samurai was new.<!-- more -->
