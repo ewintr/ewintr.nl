@@ -1,39 +1,8 @@
 {% extends "base.html" %}
-{% import "macro.html" as macro %}
 
-
-{%- block content -%}
-{%- set_global allPages = [] -%}
-{%- for s in section.subsections -%}
-{%- set subsection = get_section(path=s) -%}
-{%- for p in subsection.pages -%}
-{%- set_global allPages = allPages | concat(with=p) -%}
-{%- endfor -%}
-{%- endfor -%}
-{%- set_global allPages = allPages  | sort(attribute="date") | filter(attribute="draft", value=false) | reverse | slice(end=5)  -%}
-<main class="list">
-<h1>Latest additions to this site</h1>
-<ul class="posts">
-{%- for p in allPages -%}
-{%- set s = get_section(path=p.ancestors[1]) -%}
-<li>
-<a href="{{ p.path }}">
-{%- if s.extra.short == "movies" -%}
-<h2><img src="/image/{{ s.extra.icon }}"> {{ s.extra.short}} > {{ p.title }} {% if p.extra.movie.en_title != "" %}<em>({{ p.extra.movie.en_title}})</em>{% endif %} <br>{{ macro::date(language="en", day=p.day, month=p.month, year=p.year)}}</h2>
-{%- else -%}
-<h2><img src="/image/{{ s.extra.icon }}"> {{ s.extra.short}} > {{ p.title }} <br>{{ macro::date(language="en", day=p.day, month=p.month, year=p.year)}}</h2>
-{%- endif -%}
-<p>{{ p.summary | striptags | safe }}</p></a>
-</li>
-{%- endfor -%}
-</ul>
+{% block content %}
+<main class="page">
+    {{ section.content | safe }}
 </main>
-{%- endblock content -%}
-
-{% block docTitle -%}
-{{ section.title }} - ewintr.nl
-{%- endblock docTitle %}
-
-{% block language -%}
-{%- endblock language %}
+{% endblock content %}
 
