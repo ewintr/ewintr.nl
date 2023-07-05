@@ -7,11 +7,12 @@ title: "Home"
 
 My name is Erik, and I am a Dutch software developer. Go is my language of choice, as one can easily gather from the projects listed on this site. At work I like to program in Go, outside of work I like to program in Go. 
 
-When I am not programming... I dream of programming in Go. Nah, just kidding, I do the same things as everyone else. Listening to music, watching movies and spending time with loved ones.
+When I am not programming... I dream of programming in Go. Nah, just kidding, I do the same things as everyone else. Listen to music, watch movies and spend time with loved ones.
 
 Find me elsewhere on:
 
-* Github: [ewintr](https://github.com/ewintr)
+* Forgejo: [code.ewintr.nl](https://code.ewintr.nl)
+* Github (Forgejo mirror): [ewintr](https://github.com/ewintr)
 * Lobste.rs: [ewintr](https://lobste.rs/u/ewintr)
 * Last.fm: [ewintr](https://www.last.fm/user/ewintr)
 * Matrix: [@e:ewintr.nl](https://matrix.to/#/@e:ewintr.nl)
