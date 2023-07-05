@@ -9,7 +9,11 @@ My name is Erik, and I am a Dutch software developer. Go is my language of choic
 
 When I am not programming... I dream of programming in Go. Nah, just kidding, I do the same things as everyone else. Listen to music, watch movies and spend time with loved ones.
 
-Find me elsewhere on:
+## Projects
+
+Check out [Now Playing](/now-playing) to see what is currently keeping me busy. Or see [Paused](/paused) for older projects that I put on hold. 
+
+## Find me elsewhere
 
 * Forgejo: [code.ewintr.nl](https://code.ewintr.nl)
 * Github (Forgejo mirror): [ewintr](https://github.com/ewintr)
