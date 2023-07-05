@@ -16,7 +16,7 @@ Check out [Now Playing](/now-playing) to see what is currently keeping me busy. 
 ## Find me elsewhere
 
 * Forgejo: [code.ewintr.nl](https://code.ewintr.nl)
-* Github (Forgejo mirror): [ewintr](https://github.com/ewintr)
+* Github (mirror): [ewintr](https://github.com/ewintr)
 * Lobste.rs: [ewintr](https://lobste.rs/u/ewintr)
 * Last.fm: [ewintr](https://www.last.fm/user/ewintr)
 * Matrix: [@e:ewintr.nl](https://matrix.to/#/@e:ewintr.nl)
