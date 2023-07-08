@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2023
 extra.movie.directors = "Wes Anderson"
 extra.movie.en_title = ""
-extra.movie.rating = 4
+extra.movie.rating = 3
 +++
 
 The road runner is a puppet.<!-- more -->
