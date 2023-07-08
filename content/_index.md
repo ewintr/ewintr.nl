@@ -15,10 +15,12 @@ Check out [Now Playing](/now-playing) to see what is currently keeping me busy. 
 
 ## Find me elsewhere
 
-* Forgejo: [code.ewintr.nl](https://code.ewintr.nl)
-* Github (mirror): [ewintr](https://github.com/ewintr)
-* Lobste.rs: [ewintr](https://lobste.rs/u/ewintr)
-* Last.fm: [ewintr](https://www.last.fm/user/ewintr)
-* Matrix: [@e:ewintr.nl](https://matrix.to/#/@e:ewintr.nl)
-* Email: [e@ewintr.nl](mailto:e@ewintr.nl)
-* LinkedIn: [Erik Winter](https://www.linkedin.com/in/erik-winter-5767a923b/)
+* [Forgejo](https://code.ewintr.nl)
+* [Github](https://github.com/ewintr)
+* [Lobste.rs](https://lobste.rs/u/ewintr)
+* [Tweakers.net](https://tweakers.net/gallery/88794/)
+* [Last.fm](https://www.last.fm/user/ewintr)
+* [Matrix](https://matrix.to/#/@e:ewintr.nl)
+* [Email](mailto:e@ewintr.nl)
+* [LinkedIn](https://www.linkedin.com/in/erik-winter-5767a923b/)
+

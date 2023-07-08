@@ -37,6 +37,9 @@ main h1 a { color: black; }
 main h1 a:hover { background-color: #ffffff; }
 main p img { max-width: 100%; height: auto; }
 audio { width: 100%; }
+#find-me-elsewhere + table thead   { display: none; }
 @media screen and (max-width: 70ch) {
 nav > a { position: fixed; top: 0; right: 0; margin: 0; }
-nav > a > img { margin: 0; height: 1em; vertical-align: top; }
+nav > a > img { margin: 0; height: 3em; vertical-align: top; }
+
+
