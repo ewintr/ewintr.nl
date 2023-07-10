@@ -17,6 +17,7 @@ Check out [Now Playing](/now-playing) to see what is currently keeping me busy. 
 
 * [Forgejo](https://code.ewintr.nl)
 * [Github](https://github.com/ewintr)
+* [@ewintr on the Gophers Slack](https://gophers.slack.com/join/shared_invite/zt-1vukscera-OjamkAvBRDw~qgPh~q~cxQ#/shared-invite/email)
 * [Lobste.rs](https://lobste.rs/u/ewintr)
 * [Tweakers.net](https://tweakers.net/gallery/88794/)
 * [Last.fm](https://www.last.fm/user/ewintr)
