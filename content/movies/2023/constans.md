@@ -1,6 +1,6 @@
 +++
 title = "Constans"
-date = 2023-07-14
+date = 2023-07-13
 draft = false
 extra.movie.year = 1980
 extra.movie.directors = "Krzysztof Zanussi"
