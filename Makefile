@@ -4,4 +4,4 @@ stage:
 
 deploy:
 	/home/erik/bin/zola build
-	scp -r -P 23 public/* vm.ewintr.nl:/var/www/ewintr.nl
+	scp -r public/* ewintr.nl:/var/www/ewintr.nl

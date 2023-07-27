@@ -15,13 +15,24 @@ Check out [Now Playing](/now-playing) to see what is currently keeping me busy. 
 
 ## Find me elsewhere
 
+Code:
+
 * [Forgejo](https://code.ewintr.nl)
 * [Github](https://github.com/ewintr)
-* [@ewintr on the Gophers Slack](https://gophers.slack.com/join/shared_invite/zt-1vukscera-OjamkAvBRDw~qgPh~q~cxQ#/shared-invite/email)
+
+Dev and Tech:
+
 * [Lobste.rs](https://lobste.rs/u/ewintr)
 * [Tweakers.net](https://tweakers.net/gallery/88794/)
+* @ewintr on the [Gophers Slack](https://gophers.slack.com/join/shared_invite/zt-1vukscera-OjamkAvBRDw~qgPh~q~cxQ#/shared-invite/email)
+
+Other:
+
+* [Tildes.net](https://tildes.net/user/ewintr)
 * [Last.fm](https://www.last.fm/user/ewintr)
-* [Matrix](https://matrix.to/#/@e:ewintr.nl)
+
+Direct:
+
 * [Email](mailto:e@ewintr.nl)
 * [LinkedIn](https://www.linkedin.com/in/erik-winter-5767a923b/)
 
