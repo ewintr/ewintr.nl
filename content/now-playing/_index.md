@@ -7,12 +7,6 @@ template: "projects.html"
 <p class="border"></p>
 <ul class="projects">
 <li>
-<a href="/matrix/">
-<h2><img src="/image/robot.svg"> Matrix Bots</h2>
-<p>A few bots I created for the Matrix network.</p>
-</a>
-</li>
-<li>
 <a href="/movies/">
 <h2><img src="/image/movie-projector.svg"> Movie Micro Blog</h2>
 <p>Quick notes on movies I watched.</p>

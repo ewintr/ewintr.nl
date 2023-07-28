@@ -7,6 +7,12 @@ template: "projects.html"
 <p class="border"></p>
 <ul class="projects">
 <li>
+<a href="/matrix/">
+<h2><img src="/image/robot.svg"> Matrix Bots</h2>
+<p>A few bots I created for the Matrix network.</p>
+</a>
+</li>
+<li>
 <a href="/adoc/">
 <h2><img src="/image/document.svg"> AsciiDoc parser</h2>
 <p>An incomplete parser for the AsciiDoc markup language.</p>
