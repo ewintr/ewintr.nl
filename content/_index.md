@@ -34,5 +34,5 @@ Other:
 Direct:
 
 * [Email](mailto:e@ewintr.nl)
-* [LinkedIn](https://www.linkedin.com/in/erik-winter-5767a923b/)
+* [LinkedIn](https://www.linkedin.com/in/erik-winter-5767a923b/) _<-- use this one for sending me contracting opportunities_
 
