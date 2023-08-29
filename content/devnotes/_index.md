@@ -2,7 +2,7 @@
 title = "Notes on software development"
 page_template = "post.html"
 sort_by = "date"
-extra.icon = "robot.svg"
+extra.icon = "clear.svg"
 extra.language = "en"
 extra.short = "devnotes"
 +++

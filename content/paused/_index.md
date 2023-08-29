@@ -37,12 +37,6 @@ template: "projects.html"
 </a>
 </li>
 <li>
-<a href="/devnotes/">
-<h2><img src="/image/clear.svg"> Notes on software development</h2>
-<p>Notes, articles and tutorials on software and software development.</p>
-</a>
-</li>
-<li>
 <a href="/shitty-ssg/">
 <h2><img src="/image/undo.svg"> A shitty static site generator</h2>
 <p>A static site generator that understands Asciidoc. Sort of.</p>
