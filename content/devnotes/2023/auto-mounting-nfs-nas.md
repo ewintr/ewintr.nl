@@ -4,7 +4,7 @@ date: 2023-03-21
 draft: true
 ---
 
-First attempt: bash function with sudo
+First attempt: bash function with sudo<!-- more -->
 
 Second attempt: autofs
 
