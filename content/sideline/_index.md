@@ -1,11 +1,17 @@
 ---
-title: "Paused"
+title: "Sideline Stuff"
 template: "projects.html"
 ---
-<h1>Paused</h1>
-<p>Projects that I worked on, but that are currently on hold. Perhaps for forever.</p>
+<h1>Sideline Stuff</h1>
+<p>Things I wrote, programmed and played that no one asked me to write, program or play.</p>
 <p class="border"></p>
 <ul class="projects">
+<li>
+<a href="/devnotes/">
+<h2><img src="/image/clear.svg"> Notes on software development</h2>
+<p>Notes, articles and tutorials on software development.</p>
+</a>
+</li>
 <li>
 <a href="/adoc/">
 <h2><img src="/image/document.svg"> AsciiDoc parser</h2>
