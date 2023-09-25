@@ -1,9 +1,9 @@
 ---
-title: "Sideline Stuff"
+title: "Some Projects"
 template: "projects.html"
 ---
 <h1>Sideline Stuff</h1>
-<p>Things I wrote, programmed and played that no one asked me to write, program or play.</p>
+<p>Things I wrote, programmed and played, that no one asked me to write, program or play.</p>
 <p class="border"></p>
 <ul class="projects">
 <li>
