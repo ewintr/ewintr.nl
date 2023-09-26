@@ -7,11 +7,7 @@ title: "Home"
 
 My name is Erik, and I am a Dutch software developer. Go is my language of choice, as one can easily gather from the projects listed on this site. At work I like to program in Go, outside of work I like to program in Go. 
 
-When I am not programming... I dream of programming in Go. Nah, just kidding, I do the same things as everyone else. Listen to music, watch movies and spend time with loved ones.
-
-## Projects
-
-Check out [Now Playing](/now-playing) to see what is currently keeping me busy. Or see [Paused](/paused) for older projects that I put on hold. 
+When I am not programming... I dream of programming in Go. Nah, just kidding, I mostly do the same things as everyone else. Listen to music, watch movies, etc. I also like to write short stories and other fiction. Perhaps someday I'll publish some of it here.
 
 ## Find me elsewhere
 
