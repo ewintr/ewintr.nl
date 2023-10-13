@@ -8,4 +8,4 @@ extra.movie.en_title = ""
 extra.movie.rating = 2
 +++
 
-Read in a review somewhere: the lead actress stumbles around like an alien that needs to get used to its new human body.<!-- more -->
+Read in a review somewhere: the lead actress stumbles around like an alien that is still getting used to its new human body.<!-- more -->
