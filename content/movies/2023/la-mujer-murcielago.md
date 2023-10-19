@@ -8,4 +8,4 @@ extra.movie.en_title = "The Batwoman"
 extra.movie.rating = 3
 +++
 
-The suspension is as bad as on the 60's cars featured and the strategy to capture the viewers attention is a clear as the underwater scenes. Wonderful scenery.<!-- more -->
+The suspension is as bad as on the 60's cars featured and the strategy to capture the viewers attention is a clear as the underwater scenes.<!-- more -->
