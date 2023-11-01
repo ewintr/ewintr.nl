@@ -7,12 +7,6 @@ template: "projects.html"
 <p class="border"></p>
 <ul class="projects">
 <li>
-<a href="/movies/">
-<h2><img src="/image/movie-projector.svg"> Movie Micro Blog</h2>
-<p>Quick notes on movies I watched.</p>
-</a>
-</li>
-<li>
 <a href="/devnotes/">
 <h2><img src="/image/clear.svg"> Notes on software development</h2>
 <p>Notes, articles and tutorials on software development.</p>

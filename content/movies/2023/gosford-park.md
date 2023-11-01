@@ -8,4 +8,4 @@ extra.movie.en_title = ""
 extra.movie.rating = 3
 +++
 
-Country life can be so busy, with lots of people.<!-- more -->
+Country life can be so busy, with so many people.<!-- more -->
