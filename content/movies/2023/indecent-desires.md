@@ -8,4 +8,4 @@ extra.movie.en_title = ""
 extra.movie.rating = 2
 +++
 
-I'm continental too, you know.<!-- more -->
+I'm from Europe, so I am continental too, you know.<!-- more -->
