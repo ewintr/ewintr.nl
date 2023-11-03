@@ -18,7 +18,7 @@ My personal rating system:
 
 &#9733; &#9733; &#9733; &#9734; &#9734;  - Kept me entertained from beginning to end.
 
-&#9733; &#9733; &#9733; &#9733; &#9734;  - Resonates so well, images kept popping up in my head afterwards.
+&#9733; &#9733; &#9733; &#9733; &#9734;  - Immersed me completely.
 
 &#9733; &#9733; &#9733; &#9733; &#9733;  - Changed my perspective on life.
 
