@@ -38,8 +38,14 @@ main h1 a:hover { background-color: #ffffff; }
 main p img { max-width: 100%; height: auto; }
 audio { width: 100%; }
 #find-me-elsewhere + table thead   { display: none; }
+.rating-table table { width: 100%; }
+.rating-table table td {  }
+.rating-table table td:first-of-type { font-size: 1.5rem; padding-right: 1.5rem; text-align: center; }
+.rating-movie td { height: 2.0rem; }
+.rating-movie .rating { font-size: 1.5rem; font-weight: normal; }
 @media screen and (max-width: 70ch) {
-nav > a { position: fixed; top: 0; right: 0; margin: 0; }
-nav > a > img { margin: 0; height: 3em; vertical-align: top; }
+  nav > a { position: fixed; top: 0; right: 0; margin: 0; }
+  nav > a > img { margin: 0; height: 3em; vertical-align: top; }
+}
 
 

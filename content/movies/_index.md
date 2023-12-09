@@ -12,14 +12,14 @@ With the ever expanding options to watch movies, both online and offline, I lost
 
 My personal rating system:
 
-&#9733; &#9734; &#9734; &#9734; &#9734;  - So bad I couldn't finish it.
+<div class="rating-table">
 
-&#9733; &#9733; &#9734; &#9734; &#9734;  - Somewhat interesting, but there were parts where I got bored.
+|                                          |                                                               |
+|------------------------------------------|---------------------------------------------------------------|
+| &#x25CF;&#x25CB;&#x25CB;&#x25CB;&#x25CB; | So bad I couldn't finish it.                                  |
+| &#x25CF;&#x25CF;&#x25CB;&#x25CB;&#x25CB; | Somewhat interesting, but there were parts where I got bored. |
+| &#x25CF;&#x25CF;&#x25CF;&#x25CB;&#x25CB; | Kept me entertained from beginning to end.                    |
+| &#x25CF;&#x25CF;&#x25CF;&#x25CF;&#x25CB; | Immersed me completely.                                       |
+| &#x25CF;&#x25CF;&#x25CF;&#x25CF;&#x25CF; | Changed my perspective on life.                               |
 
-&#9733; &#9733; &#9733; &#9734; &#9734;  - Kept me entertained from beginning to end.
-
-&#9733; &#9733; &#9733; &#9733; &#9734;  - Immersed me completely.
-
-&#9733; &#9733; &#9733; &#9733; &#9733;  - Changed my perspective on life.
-
-&nbsp;
+</div>
