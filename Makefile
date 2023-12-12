@@ -3,7 +3,7 @@
 stage:
 	/home/erik/bin/zola serve
 
-stage-drafs:
+stage-drafts:
 	/home/erik/bin/zola serve --drafts
 
 deploy:
