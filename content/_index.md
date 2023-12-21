@@ -13,13 +13,13 @@ When I am not programming... I dream of programming in Go. Nah, just kidding, I 
 
 Code:
 
-* [Forgejo](https://code.ewintr.nl)
-* [Github](https://github.com/ewintr)
+* [Codeberg.org](https://codeberg.org/ewintr)
+* [Github.com](https://github.com/ewintr) (mirror)
 
 Dev and Tech:
 
-* [Lobste.rs](https://lobste.rs/u/ewintr)
 * [Tweakers.net](https://tweakers.net/gallery/88794/)
+* [Lobste.rs](https://lobste.rs/u/ewintr)
 * @ewintr on the [Gophers Slack](https://gophers.slack.com/join/shared_invite/zt-1vukscera-OjamkAvBRDw~qgPh~q~cxQ#/shared-invite/email)
 
 Other:
@@ -30,5 +30,5 @@ Other:
 Direct:
 
 * [Email](mailto:e@ewintr.nl)
-* [LinkedIn](https://www.linkedin.com/in/erik-winter-5767a923b/) _<-- use this one for sending me contracting opportunities_
+* [LinkedIn.com](https://www.linkedin.com/in/erik-winter-5767a923b/) _<-- use this one for sending me contracting opportunities_
 
