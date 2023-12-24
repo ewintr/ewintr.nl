@@ -294,4 +294,4 @@ That's it! We now have tested each and every requirement that was listed above. 
 
 I hope you found this useful. As mentioned above, a complete implementation of `FooClient` that passes all tests can be found in the doc folder of [this repository](https://codeberg.org/ewintr/go-kit).
 
-If you have comments, please let me know. Contact methods are listed on the [About page](https://ewintr.nl/about/).
+If you have comments, please let me know. Contact methods are listed on the [Home page](https://ewintr.nl/).
