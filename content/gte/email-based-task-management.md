@@ -46,4 +46,4 @@ Creating tasks seems easy, just send an email to an account and it's there. Dele
 Another thing that is certainly not possible with every random email client is encryption. There is no way to encrypt an email that works with every client without a lot of error-prone user interaction and configuration. So having the requirement that it works everywhere rules out the possibility of storing your tasks encrypted. This is unfortunate, but this is a trade-off that can't be worked around, I think. At least for the moment.
 First version
 
-With the above ideas in mind, I created a very, very limited prototype and I have been using it exclusively for some time now. I am convinced that this is something that could work well, so I am going to continue developing it. Code is [here](https://code.ewintr.nl/ewintr/gte). Stay tuned.
+With the above ideas in mind, I created a very, very limited prototype and I have been using it exclusively for some time now. I am convinced that this is something that could work well, so I am going to continue developing it. Code is [here](https://codeberg.org/ewintr/gte). Stay tuned.

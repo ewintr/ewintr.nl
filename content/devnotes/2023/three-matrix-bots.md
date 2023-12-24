@@ -10,7 +10,7 @@ The benefit of having a bot on a network like this is that you only need to run 
 
 ## Matrix-GPTZoo
 
-Code is here: [code.ewintr.nl](https://code.ewintr.nl/ewintr/matrix-gptzoo)
+Code is here: [codeberg.org](https://codeberg.org/ewintr/matrix-gptzoo)
 
 A ChatGPT interface with multiple configurable prompts.
 
@@ -20,7 +20,7 @@ Bots will only answer questions specifically addressed to them, but it is also p
 
 ## Matrix-FeedReader
 
-Code is here: [code.ewintr.nl](https://code.ewintr.nl/ewintr/matrix-feedreader)
+Code is here: [codeberg.org](https://codeberg.org/ewintr/matrix-feedreader)
 
 This is a bot simply posts new entries from a [Miniflux](https://miniflux.app/) RSS reader to a Matrix room.
 
@@ -31,7 +31,7 @@ Miniflux already has a Matrix integration and can post the entries itself, but t
 
 ## Matrix-KagiSum
 
-Code is here: [code.ewintr.nl](https://code.ewintr.nl/ewintr/matrix-kagisum)
+Code is here: [codeberg.org](https://codeberg.org/ewintr/matrix-kagisum)
 
 A quick and dirty bot that summarizes web content from a link. It uses the [Kagi Universal Summarizer](https://blog.kagi.com/universal-summarizer).
 

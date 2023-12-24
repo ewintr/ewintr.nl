@@ -5,7 +5,7 @@ sort_by = "date"
 extra.icon = "undo.svg"
 extra.language = "en"
 extra.short = "shitty-ssg"
-extra.goimport = "https://code.ewintr.nl/ewintr/shitty-ssg.git"
+extra.goimport = "https://codeberg.org/ewintr/shitty-ssg.git"
 +++
 
 Even though I had been a developer for a long time, I never made much effort to develop tools for myself. Why would I? There is already so much good software out there that you can download for free. Surely it is better to just use that and not waste your time?
@@ -16,4 +16,4 @@ This project started with a [rant](https://ewintr.nl/shitty-ssg/why-i-built-my-o
 
 I used it and used it for about a year and then let it reincarnate in the scripts that generate the site you are reading now. Because that is very easy to do with your own software as well: change it however you want, whenever you like.
 
-Code can be found [here](https://code.ewintr.nl/ewintr/shitty-ssg).
+Code can be found [here](https://codeberg.org/ewintr/shitty-ssg).

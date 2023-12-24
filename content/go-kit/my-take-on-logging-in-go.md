@@ -165,4 +165,4 @@ Ever had some external library messing up things because they decided just to lo
 
 ## Example implementation
 
-An example of how you can adapt a regular logging library to these practices is the `log` package in my small personal [go kit repository](https://code.ewintr.nl/ewintr/go-kit). There is an interface definition in `log.go`, together with two implementations, one for [Logrus](https://github.com/Sirupsen/logrus) and one for the [gokit.io](https://gokit.io/) `log` package, and an implemention suitable for use in testing.
+An example of how you can adapt a regular logging library to these practices is the `log` package in my small personal [go kit repository](https://codeberg.org/ewintr/go-kit). There is an interface definition in `log.go`, together with two implementations, one for [Logrus](https://github.com/Sirupsen/logrus) and one for the [gokit.io](https://gokit.io/) `log` package, and an implemention suitable for use in testing.

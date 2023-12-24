@@ -26,6 +26,6 @@ How does this work? Just follow these simple steps:
 
 ## Example
 
-An example of what this looks like in practice is the `log` package in my small personal [go kit](https://code.ewintr.nl/ewintr/go-kit) repository. There is an interface definition in `log.go`, together with two implementations, one for [Logrus](https://github.com/Sirupsen/logrus) and one for the [gokit.io](https://gokit.io/) log package, and an implemention suitable for use in testing.
+An example of what this looks like in practice is the `log` package in my small personal [go kit](https://codeberg.org/ewintr/go-kit) repository. There is an interface definition in `log.go`, together with two implementations, one for [Logrus](https://github.com/Sirupsen/logrus) and one for the [gokit.io](https://gokit.io/) log package, and an implemention suitable for use in testing.
 
 Both libraries have their own structure and their own set of features, but changing one for the other is easy. 
