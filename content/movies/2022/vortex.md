@@ -2,10 +2,10 @@
 title = "Vortex"
 date = 2022-11-12
 draft = false
-extra.movie.year = 2021
+extra.movie.year = 2022
 extra.movie.directors = "Gaspar Noé"
 extra.movie.en_title = ""
-extra.movie.rating = 1
+extra.movie.rating = 0.5
 +++
 
-Yes, old age is miserable and boring. You made your point.<!-- more -->
+Explaining the boredom of old age by inflicting it.<!-- more -->

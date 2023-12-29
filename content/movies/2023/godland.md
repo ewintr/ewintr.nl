@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2022
 extra.movie.directors = "Hlynur Pálmason"
 extra.movie.en_title = "Godland"
-extra.movie.rating = 4
+extra.movie.rating = 4.0
 +++
 
-A country so empty, they never even bothered to invent the umbrella.<!-- more -->
+A country so emptyt, they never even bothered to invent the umbrella.<!-- more -->

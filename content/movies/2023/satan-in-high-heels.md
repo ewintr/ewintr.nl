@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 1962
 extra.movie.directors = "Jerald Intrator"
 extra.movie.en_title = ""
-extra.movie.rating = 2
+extra.movie.rating = 2.5
 +++
 
 Apparently Satan is a pin-up girl that talks like a hardboiled detective.<!-- more -->

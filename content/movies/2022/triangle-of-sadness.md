@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2022
 extra.movie.directors = "Ruben Östlund"
 extra.movie.en_title = ""
-extra.movie.rating = 2
+extra.movie.rating = 2.5
 +++
 
-Like the world it mocks, over the top and a bit boring at the same time.<!-- more -->
+Like the world it mocks, over the the top and boring at the same time.<!-- more -->

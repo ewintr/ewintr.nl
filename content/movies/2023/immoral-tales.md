@@ -1,11 +1,11 @@
 +++
-title = "Immoral Tales"
+title = "Contes immoraux"
 date = 2023-07-16
 draft = false
-extra.movie.year = 1973
+extra.movie.year = 1974
 extra.movie.directors = "Walerian Borowczyk"
-extra.movie.en_title = ""
-extra.movie.rating = 2
+extra.movie.en_title = "Immoral Tales"
+extra.movie.rating = 2.5
 +++
 
 If history teaches us anything, it is that each century has had its fair share of naked women.<!-- more -->

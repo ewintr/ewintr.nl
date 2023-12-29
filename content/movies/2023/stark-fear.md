@@ -3,9 +3,9 @@ title = "Stark Fear"
 date = 2023-12-20
 draft = false
 extra.movie.year = 1962
-extra.movie.directors = "Ned Hockman, Skip Homeier"
+extra.movie.directors = "Ned Hockman"
 extra.movie.en_title = ""
-extra.movie.rating = 3
+extra.movie.rating = 3.0
 +++
 
-People who call this a film noir have not watched it until the end.<!-- more -->
+People who call this a fim noir have not watched it until the end.<!-- more -->

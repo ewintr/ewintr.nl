@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 1984
 extra.movie.directors = "Sergio Leone"
 extra.movie.en_title = ""
-extra.movie.rating = 4
+extra.movie.rating = 4.0
 +++
 
 You mean drinking from the heating radiators was prohibited back then?<!-- more -->

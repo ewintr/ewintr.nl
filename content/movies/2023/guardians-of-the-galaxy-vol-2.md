@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2017
 extra.movie.directors = "James Gunn"
 extra.movie.en_title = ""
-extra.movie.rating = 3
+extra.movie.rating = 3.5
 +++
 
 More parts with orchestral background music does not make things better.<!-- more -->

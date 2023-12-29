@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 1991
 extra.movie.directors = "Jim Jarmusch"
 extra.movie.en_title = ""
-extra.movie.rating = 1
+extra.movie.rating = 0.5
 +++
 
-Over the top acting and boring superficial stories. Did not finish.<!-- more -->
+Over the top acting and boring stories. Did not finish.<!-- more -->

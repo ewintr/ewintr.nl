@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2010
 extra.movie.directors = "Gregg Araki"
 extra.movie.en_title = ""
-extra.movie.rating = 4
+extra.movie.rating = 4.0
 +++
 
 The Fight Club ending was a bit too much.<!-- more -->
