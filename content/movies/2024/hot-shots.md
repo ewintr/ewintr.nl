@@ -8,4 +8,4 @@ extra.movie.en_title = ""
 extra.movie.rating = 1.5
 +++
 
-We all this was hilarious in 1991. It was a more innocent time.<!-- more -->
+We all thought this was hilarious in 1991. It was a more innocent time.<!-- more -->
