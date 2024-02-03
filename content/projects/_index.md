@@ -7,12 +7,6 @@ template: "projects.html"
 <p class="border"></p>
 <ul class="projects">
 <li>
-<a href="/vkv/">
-<h2><img src="/image/collision.svg"> Vrij korte verhalen &#127475;&#127473;</h2>
-<p>A collection of short stories I wrote over the years. All in Dutch.</p>
-</a>
-</li>
-<li>
 <a href="/devnotes/">
 <h2><img src="/image/clear.svg"> Notes on software development</h2>
 <p>Notes, articles and tutorials on software development.</p>
@@ -28,6 +22,12 @@ template: "projects.html"
 <a href="/gte/">
 <h2><img src="/image/envelope.svg"> Getting things email</h2>
 <p>Email based task management</p>
+</a>
+</li>
+<li>
+<a href="/vkv/">
+<h2><img src="/image/collision.svg"> Vrij korte verhalen &#127475;&#127473;</h2>
+<p>A collection of short stories I wrote over the years. All in Dutch.</p>
 </a>
 </li>
 <li>
