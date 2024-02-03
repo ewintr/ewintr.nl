@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 1951
 extra.movie.directors = "Matilde Landeta"
 extra.movie.en_title = "Streetwalker"
-extra.movie.rating = 2.5
+extra.movie.rating = 5
 +++
 
 That is a very complicated way to get a diverce.<!-- more -->

@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 1969
 extra.movie.directors = "Agnès Varda"
 extra.movie.en_title = ""
-extra.movie.rating = 0.5
+extra.movie.rating = 1
 +++
 
 Hippie version of #iamfourteenandthisisdeep.<!-- more -->

@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2018
 extra.movie.directors = "Wolfgang Fischer"
 extra.movie.en_title = ""
-extra.movie.rating = 3.5
+extra.movie.rating = 7
 +++
 
 Am I the only one who never throws with water bottles?<!-- more -->

@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2007
 extra.movie.directors = "Diao Yi'nan"
 extra.movie.en_title = "Night Train"
-extra.movie.rating = 4.5
+extra.movie.rating = 9
 +++
 
 Combining love and justice is a hard thing. Let alone doing it in the middle of a concrete desert.<!-- more -->

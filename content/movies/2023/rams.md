@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2015
 extra.movie.directors = "Grímur Hákonarson"
 extra.movie.en_title = "Rams"
-extra.movie.rating = 4.0
+extra.movie.rating = 8
 +++
 
 Beards, sweaters and sheep.<!-- more -->

@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 1999
 extra.movie.directors = "Pedro Almodóvar"
 extra.movie.en_title = "All About My Mother"
-extra.movie.rating = 3.5
+extra.movie.rating = 7
 +++
 
 A streetcar named Esteban.<!-- more -->

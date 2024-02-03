@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2017
 extra.movie.directors = "Tarik Saleh"
 extra.movie.en_title = ""
-extra.movie.rating = 4.0
+extra.movie.rating = 8
 +++
 
 The State Security Service always takes a cut.<!-- more -->

@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2008
 extra.movie.directors = "Götz Spielmann"
 extra.movie.en_title = ""
-extra.movie.rating = 4.5
+extra.movie.rating = 9
 +++
 
 Chopping wood can be excellent therapy.<!-- more -->

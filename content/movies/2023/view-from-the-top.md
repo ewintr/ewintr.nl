@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2003
 extra.movie.directors = "Bruno Barreto"
 extra.movie.en_title = ""
-extra.movie.rating = 2.5
+extra.movie.rating = 5
 +++
 
 Gwyneth Paltrow is a real barbie. If you squint cross-eyed enough.<!-- more -->

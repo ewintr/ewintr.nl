@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2000
 extra.movie.directors = "Anders Thomas Jensen"
 extra.movie.en_title = "Flickering Lights"
-extra.movie.rating = 3.5
+extra.movie.rating = 7
 +++
 
 Trigger. Happy. Family.<!-- more -->

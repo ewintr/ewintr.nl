@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2009
 extra.movie.directors = "Luca Guadagnino"
 extra.movie.en_title = "I Am Love"
-extra.movie.rating = 4.0
+extra.movie.rating = 8
 +++
 
 Cut your hair and dream of crayfish. Or become a lesbian. Whatever works for you.<!-- more -->

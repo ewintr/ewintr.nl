@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2009
 extra.movie.directors = "Yorgos Lanthimos"
 extra.movie.en_title = "Dogtooth"
-extra.movie.rating = 4.0
+extra.movie.rating = 8
 +++
 
 We're gonna be like three little zombies. What's zombie like?<!-- more -->

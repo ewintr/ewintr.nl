@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2020
 extra.movie.directors = "Damiano D'Innocenzo, Fabio D'Innocenzo"
 extra.movie.en_title = "Bad Tales"
-extra.movie.rating = 3.5
+extra.movie.rating = 7
 +++
 
 Bright summer with a lot of darkness.<!-- more -->

@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 1966
 extra.movie.directors = "Saul Resnick"
 extra.movie.en_title = ""
-extra.movie.rating = 3.0
+extra.movie.rating = 6
 +++
 
 "I am soul watcher, dreamer of faces."<!-- more -->

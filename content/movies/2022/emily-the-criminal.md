@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2022
 extra.movie.directors = "John Patton Ford"
 extra.movie.en_title = ""
-extra.movie.rating = 2.5
+extra.movie.rating = 5
 +++
 
 A very smooth slide into crime.<!-- more -->

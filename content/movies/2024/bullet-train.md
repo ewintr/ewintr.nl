@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2022
 extra.movie.directors = "David Leitch"
 extra.movie.en_title = ""
-extra.movie.rating = 3.5
+extra.movie.rating = 7
 +++
 
 The fate of an action comedy is to get ridiculous in the end.<!-- more -->

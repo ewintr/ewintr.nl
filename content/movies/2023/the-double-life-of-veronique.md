@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 1991
 extra.movie.directors = "Krzysztof Kieślowski"
 extra.movie.en_title = "The Double Life of Véronique"
-extra.movie.rating = 5.0
+extra.movie.rating = 10
 +++
 
 A nice thing about dreams: your muse can have a spare.<!-- more -->

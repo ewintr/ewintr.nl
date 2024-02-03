@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 1962
 extra.movie.directors = "Akira Kurosawa"
 extra.movie.en_title = "Sanjuro"
-extra.movie.rating = 3.5
+extra.movie.rating = 7
 +++
 
 I would like to rescue you from captivity, if that's not too impolite.<!-- more -->

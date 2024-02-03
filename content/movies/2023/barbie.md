@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2023
 extra.movie.directors = "Greta Gerwig"
 extra.movie.en_title = ""
-extra.movie.rating = 3.5
+extra.movie.rating = 7
 +++
 
 Still a bit confused about how the idiot patriarchs could just simply brainwash a Nobel Prize winner, a rocket scientist, etc.<!-- more -->

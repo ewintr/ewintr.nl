@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2019
 extra.movie.directors = "Claudio Giovannesi"
 extra.movie.en_title = "Piranhas"
-extra.movie.rating = 3.5
+extra.movie.rating = 7
 +++
 
 "See Napels and die" can be rough if you're born there.<!-- more -->

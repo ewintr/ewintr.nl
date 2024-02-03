@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 1961
 extra.movie.directors = "Curtis Harrington"
 extra.movie.en_title = ""
-extra.movie.rating = 2.5
+extra.movie.rating = 5
 +++
 
 Siren mermaid has an excellent taste in jazz.<!-- more -->

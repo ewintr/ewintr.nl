@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 1991
 extra.movie.directors = "Jim Abrahams"
 extra.movie.en_title = ""
-extra.movie.rating = 3.0
+extra.movie.rating = 6
 +++
 
 We all thought this was hilarious in 1991. It was a more innocent time.<!-- more -->

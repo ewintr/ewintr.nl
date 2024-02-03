@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2002
 extra.movie.directors = "Olivier Assayas"
 extra.movie.en_title = ""
-extra.movie.rating = 3.5
+extra.movie.rating = 7
 +++
 
 A dazzling cyber rollercoaster run by greedy people.<!-- more -->

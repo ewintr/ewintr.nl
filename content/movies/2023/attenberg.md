@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2010
 extra.movie.directors = "Athina Rachel Tsangari"
 extra.movie.en_title = ""
-extra.movie.rating = 3.5
+extra.movie.rating = 7
 +++
 
 With a cameo from The ministry of Silly Walks.<!-- more -->

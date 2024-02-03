@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 1961
 extra.movie.directors = "Jerzy Kawalerowicz"
 extra.movie.en_title = "Mother Joan of the Angels"
-extra.movie.rating = 5.0
+extra.movie.rating = 10
 +++
 
 Crackling black and white about good and evil and lust.<!-- more -->

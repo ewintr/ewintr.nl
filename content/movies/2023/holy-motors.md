@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2012
 extra.movie.directors = "Leos Carax"
 extra.movie.en_title = ""
-extra.movie.rating = 2.5
+extra.movie.rating = 5
 +++
 
 A cinematic Rorschach test. I failed.<!-- more -->

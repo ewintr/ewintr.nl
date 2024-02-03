@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 2016
 extra.movie.directors = "Koji Fukada"
 extra.movie.en_title = "Harmonium"
-extra.movie.rating = 3.5
+extra.movie.rating = 7
 +++
 
 As always with Japanese movies, it is not hard to find someone online that can explain everything as an allagory of postwar Japan.<!-- more -->

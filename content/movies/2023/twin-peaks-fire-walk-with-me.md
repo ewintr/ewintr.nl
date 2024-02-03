@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 1992
 extra.movie.directors = "David Lynch"
 extra.movie.en_title = ""
-extra.movie.rating = 4.0
+extra.movie.rating = 8
 +++
 
 Explains the series nicely. In the David Lynch way, so it will leave you properly confused.<!-- more -->

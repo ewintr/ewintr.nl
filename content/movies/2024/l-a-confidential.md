@@ -5,7 +5,7 @@ draft = false
 extra.movie.year = 1997
 extra.movie.directors = "Curtis Hanson"
 extra.movie.en_title = ""
-extra.movie.rating = 4.0
+extra.movie.rating = 8
 +++
 
 No oscars for this one. Must have been the glasses.<!-- more -->
