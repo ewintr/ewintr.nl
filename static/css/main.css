@@ -1,6 +1,6 @@
-@font-face { font-family: "Liberation Mono"; font-style: normal; font-weight: 400; src: local("Liberation Mono"), url("/font/liberationmono-regular-webfont.woff2") format("woff2"), url("/font/liberationmono-regular-webfont.woff") format("woff"); font-display: swap; }
+@font-face { font-family: "Berkeley Mono"; font-style: normal; font-weight: 400; src: local("Berkeley Mono"), url("/font/BerkeleyMono-Regular.woff2") format("woff2"), url("/font/BerkeleyMono-Regular.woff") format("woff"); font-display: swap; }
 @font-face { font-family: "Quattrocento Sans"; font-style: bold; font-weight: 700; src: local("Quattrocento Sans"), url("/font/quattrocentosans-bold-webfont.woff2") format("woff2"), url("/font/quattrocentosans-bold-webfont.woff") format("woff"); font-display: swap; }
-html { font: 18px "Liberation Mono", Menlo, Monaco, "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", monospace, serif; line-height: 1.5; padding: 0 1rem; }
+html { font: 18px "Berkeley Mono", Menlo, Monaco, "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", monospace, serif; line-height: 1.5; padding: 0 1rem; }
 body { max-width: 80ch; margin: auto; color: black; background-color: #ecf0f1; }
 nav { display: flex; width: 100%; justify-content: center; flex-wrap: wrap; border-bottom: 4px solid #2c3e50; margin-bottom: 4.5rem; }
 nav > a > img { height: 4.5rem; margin-top: 1.5rem; vertical-align: bottom; }
@@ -12,7 +12,7 @@ main.list a { color: #2980b9; font-weight: bold; }
 main.list a:hover { background-color: #ffffff; }
 h1 { font: 700 1.6rem "Quattrocento Sans", "DejaVu Sans", "Trebuchet MS", Tahoma, sans-serif; }
 h2 { font: 700 1.4rem "Quattrocento Sans", "DejaVu Sans", "Trebuchet MS", Tahoma, sans-serif; }
-h2 time, h1 time { font: italic 1rem "Liberation Mono", Menlo, Monaco, "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", Monospace, serif; line-height: 1; }
+h2 time, h1 time { font: italic 1rem "Berkeley Mono", Menlo, Monaco, "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", Monospace, serif; line-height: 1; }
 h2 em { font-weight: normal; font-size: 1.3rem; }
 p.border { border-width: 4px 0 0 0; border-style: solid; border-color: #2c3e50; padding-top: 1rem; }
 p.border img { display: block; height: 8rem; margin: 0 auto; }
@@ -29,7 +29,7 @@ main.post table { margin-top: 2rem; }
 main.post td:last-of-type { padding-left: 2rem; }
 main.post tr:nth-child(1) td:last-of-type, main.post tr:nth-child(2) td:last-of-type { font-weight: bold; }
 pre { font-size: 0.85rem; line-height: 1.2rem; width: auto; padding: 0.5rem; overflow: auto }
-pre, code { font-family: "Liberation Mono", Menlo, Monaco, "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", monospace, serif; background-color: #ffffff; }
+pre, code { font-family: "Berkeley Mono", Menlo, Monaco, "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", monospace, serif; background-color: #ffffff; }
 pre code { background-color: transparent; }
 main a { color: #2980b9; font-weight: bold; }
 main a:hover { background-color: #ffffff; }
