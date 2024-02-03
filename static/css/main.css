@@ -13,6 +13,7 @@ main.list a:hover { background-color: #ffffff; }
 h1 { font: 700 1.6rem "Quattrocento Sans", "DejaVu Sans", "Trebuchet MS", Tahoma, sans-serif; }
 h2 { font: 700 1.4rem "Quattrocento Sans", "DejaVu Sans", "Trebuchet MS", Tahoma, sans-serif; }
 h2 time, h1 time { font: italic 1rem "Liberation Mono", Menlo, Monaco, "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", Monospace, serif; line-height: 1; }
+h2 .flag { font: 1rem "Liberation Mono", Menlo, Monaco, "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", Monospace, serif; line-height: 1; }
 h2 em { font-weight: normal; font-size: 1.3rem; }
 p.border { border-width: 4px 0 0 0; border-style: solid; border-color: #2c3e50; padding-top: 1rem; }
 p.border img { display: block; height: 8rem; margin: 0 auto; }

@@ -1,5 +1,5 @@
 +++
-title = "Vrij korte verhalen"
+title = "Verhalen"
 page_template = "post.html"
 sort_by = "date"
 extra.icon = "collision.svg"
